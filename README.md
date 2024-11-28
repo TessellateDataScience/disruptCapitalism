@@ -4,7 +4,8 @@ _Our mission is disruption of capitalism's dominant model, as we assert most peo
 ## Research: computational fluid dynamics
 We think we're researching potentially a 'high-impact' topic that could bring health equity to millions of less-fortunate people. [Our current research](https://github.com/TessellateDataScience/faceShieldOptimisations) supports this, with preliminary findings that significant increases in Personal Protective Equipment effectiveness are possible with small (& not un-conventional) optimisations to their design. 
 
-Our evidence is based on a purely computational methodology, with it's real-world accuracy supported by supplementary activities in 'validation' against a recent physical investigation [2], and 'verification' across computational investigations (establishing relative invariance of computational results to differing numerical parameters). 
+## Collaboration: getting involved
+We'd love for you to ideally undertake some research & development, too! All our stuff is freely-available and so is the computational software we've used. We're also relying of some 'digital learning' components that might be helpful for you (see 'Further learning' below) along with ensuring easier collaboration between anyone looking to share their stuff. You can choose not to share, but that defeats the purpose, no?
 
 ## Development: ideation to optimisation
 We aim to encourage collaboration, to disrupt the individualist mindset [3]. We further propose a design methodology which couples the computational-based method we've used with human-based 'ideation' techniques. Such an approach of optimisation conducted on a wide idea space ensures premature optimisation is reduced, allowing greater probability of achieving breakthrough innovations (based on a 'rational argument' and not physical empirical evidence). 
